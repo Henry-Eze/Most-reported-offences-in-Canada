@@ -54,6 +54,8 @@ Horizontal bar chart:	Rank the most reported offences
 Animated bar chart:	Illustrate changes in offence rankings
 The animated ranking provides a dynamic view of how the relative frequency of the selected offences evolved over time.
 
+https://github.com/user-attachments/assets/be13c64a-74b3-4fa3-a8f5-801f23973e43
+
 ## Limitations
 The findings should be interpreted with the following considerations:
 •	Selected offences: The dataset includes only ten offence categories.
@@ -75,7 +77,7 @@ Secondary Data Platform: Crime Canada
 The project uses publicly available police-reported crime statistics for educational and professional portfolio purposes.
 The analysis and interpretations represent independent work and are not endorsed by the data providers.
 References
-•	Statistics Canada — Table 35-10-0177-01: Incident-based crime statistics.
-•	Statistics Canada — Table 35-10-0026-01: Crime Severity Index and weighted clearance rates.
-•	Crime Canada — Canada Crime Statistics: National Overview.
+#### •	Statistics Canada — Table 35-10-0177-01: Incident-based crime statistics.
+#### •	Statistics Canada — Table 35-10-0026-01: Crime Severity Index and weighted clearance rates.
+#### •	Crime Canada — Canada Crime Statistics: National Overview.
 
